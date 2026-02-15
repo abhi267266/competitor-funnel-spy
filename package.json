@@ -1,0 +1,14 @@
+{
+  "name": "competitor-funnel-spy",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^25.2.3",
+    "playwright": "^1.58.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
